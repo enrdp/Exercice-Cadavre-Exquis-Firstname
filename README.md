@@ -4,3 +4,6 @@ Nikola Tesla, (born July 9/10, 1856, Smiljan, Austrian Empire [now in Croatia]�
 
 Nikola Tesla (en serbe cyrillique : Никола Тесла), né le 10 juillet 1856 à Smiljan dans l'Empire d'Autriche (actuelle Croatie) et mort le 7 janvier 1943 à New York, est un inventeur et ingénieur américain d'origine serbe. Il est notoirement connu pour son rôle prépondérant dans le développement et l'adoption du courant alternatif pour le transport et la distribution de l'électricité.
 
+He was rich.
+He was a scientist.
+he was famous.
